@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE html>
+<html>
+<head>
+    <title>
+        Tiêu đề trang web
+    </title>
+    <!-- Bắt đầu viết Css cho web -->
+    <b:skin>
+        <![CDATA[
+          /* Chèn Css vào đây */
+    ]]>
+    </b:skin>
+</head>
+<!-- Bắt đầu phần hiển thị trên web -->
+<body>
+    Thêm nội dung trang web của bạn vào đây
+    <b:section class='navbar' id='navbar' maxwidgets='1' showaddelement='yes'>
+    </b:section>
+</body>
+<!-- Kết thúc phần hiển thị trên web -->
+</html>
