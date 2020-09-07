@@ -1,4 +1,4 @@
-# blank-blogger-theme
+# blogspot-blank-theme
 
 Xin chào các bạn, hôm nay working24 xin chia sẻ đến các bạn template blogger trắng tinh cho blogspot giúp các bạn có thể thiết kế một mẫu blog của riêng mình
 
